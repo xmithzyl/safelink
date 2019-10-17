@@ -46,7 +46,7 @@ a_to_vi.match("http"))
 {a_to_vh=true;}
 j++;}
 if(a_to_vh==false)
-{var encryptedUrl=Base64.encode(a_to_vi);a_to_ve[i].href="https://safelink-prcobaan.blogspot.com/p/contoh-e-ticket.html?url="+ 
+{var encryptedUrl=Base64.encode(a_to_vi);a_to_ve[i].href="http://www.materibelajarupdate.com/p/apa-itu-e-ticket.html?url="+ 
 
 encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
@@ -55,5 +55,5 @@ if(a_to_vk)
 {a_to_vk.innerHTML+=a_to_va;}}
 function a_to_fa()
 {var a_to_vf=new Array();protected_links=protected_links.replace(" ","");a_to_vf=protected_links.split(",");return a_to_vf;}
-protected_links = "xmithzyl.blogspot.com";
+protected_links = "";
 auto_safelink();
