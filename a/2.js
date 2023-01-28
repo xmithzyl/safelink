@@ -46,7 +46,7 @@ a_to_vi.match("http"))
 {a_to_vh=true;}
 j++;}
 if(a_to_vh==false)
-{var encryptedUrl=Base64.encode(a_to_vi);a_to_ve[i].href="http://www.lirikterjamahanindo.com/p/contoh-e-ticket.html?url="+ 
+{var encryptedUrl=Base64.encode(a_to_vi);a_to_ve[i].href="https://bestieyoung.blogspot.com/p/cara-membuka-bisnis-sendiri.html?url="+ 
 
 encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
